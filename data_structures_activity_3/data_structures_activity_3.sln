@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LowerTriangularMatrix", "LowerTriangularMatrix", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lower Triangular Matrix", "..\LOWER TRIANGULAR OF A MATRIX\Lower Triangular Matrix.csproj", "{30EA4734-0740-45DA-BAC1-2F98EA8C0E53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hourglass", "Hourglass", "{7D4F27C5-C6AA-45C7-AFE4-42F947185042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hourglass", "Hourglass\Hourglass.csproj", "{538E0E92-D06F-4AB7-87BA-8266B78C22FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30EA4734-0740-45DA-BAC1-2F98EA8C0E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EA4734-0740-45DA-BAC1-2F98EA8C0E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EA4734-0740-45DA-BAC1-2F98EA8C0E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EA4734-0740-45DA-BAC1-2F98EA8C0E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538E0E92-D06F-4AB7-87BA-8266B78C22FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538E0E92-D06F-4AB7-87BA-8266B78C22FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538E0E92-D06F-4AB7-87BA-8266B78C22FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538E0E92-D06F-4AB7-87BA-8266B78C22FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30EA4734-0740-45DA-BAC1-2F98EA8C0E53} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{538E0E92-D06F-4AB7-87BA-8266B78C22FC} = {7D4F27C5-C6AA-45C7-AFE4-42F947185042}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7000CE8B-150B-45A8-B9A6-8A1FD3E7049F}
+	EndGlobalSection
+EndGlobal
